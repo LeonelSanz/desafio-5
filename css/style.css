@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    flex-direction: column;
+}
+.fondo{
+    background-color: rgba(255, 0, 0, 0.747);
+}
+.h1{
+    text-align: center;
+}
+.columna-1{
+    background-color: blue;
+}
+.columna-2{
+    background-color: green;
+}
+.columna-3{
+    background-color: aqua;
+}
+.columna-4{
+    background-color: blueviolet;
+}
+.columna-5{
+    background-color: brown;
+}
